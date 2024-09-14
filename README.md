@@ -1,0 +1,1 @@
+This project is a conversational chatbot that translates user input between multiple languages in real time. Built with natural language processing (NLP) techniques and machine learning models, the chatbot can detect the source language and provide translations, enhancing cross-lingual communication seamlessly.
